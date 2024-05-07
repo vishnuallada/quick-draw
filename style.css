@@ -1,0 +1,15 @@
+body 
+{
+    background-color:aquamarine;
+}
+
+#score
+{
+ float: right;  
+ margin: 100px; 
+}
+#timer
+{
+ float: right;  
+ margin: 100px; 
+}
